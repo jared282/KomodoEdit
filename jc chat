@@ -1,0 +1,12 @@
+<!DOCTYPE htlm>
+<htlm>
+      <head>
+           <titel>ma page personnel</titel>
+           <meta charset="utf8">
+      </head>
+      <boby>
+          <h1>le titre principal</h1>
+          <p>un premier paragraphe</p>
+      </body>
+      
+</htlm>
